@@ -16,7 +16,7 @@
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[ к оглавлению](https://github.com/Blef0099/sf_data_science/blob/main/project_1/README.md#Оглавление)
+:arrow_up:[ к оглавлению](https://github.com/Blef0099/sf_data_science/blob/main/project_1/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Какой кейс решаем?
