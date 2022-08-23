@@ -1,10 +1,10 @@
 import numpy as np
 
-def random_predict(number:int=35) -> int:
+def random_predict(number:int=1) -> int:
     """Рандомно угадываем число
 
     Args:
-        number (int, optional): Загаданное число. Defaults to 35.
+        number (int, optional): Загаданное число. Defaults to 1.
         l_range (int, optional): Нижняя граница генерируемого диапазона
         up_range (int, optional): Верхняя граница генерируемого диапазона
 
@@ -13,7 +13,7 @@ def random_predict(number:int=35) -> int:
     """
 
     count = 0
-    low_range = 1 # нижняя граница диапазона
+    low_range = 0 # нижняя граница диапазона
     up_range = 101 # верхняя граница диапазона
     while True:
         count += 1
