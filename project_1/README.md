@@ -3,7 +3,7 @@
 ## Оглавление
 [1. Описание проекта](https://github.com/Blef0099/sf_data_science/blob/main/project_1/README.md#Описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/Blef0099/sf_data_science/blob/main/project_0/README.md#Какой-кейс-решаем)
+[2. Какой кейс решаем?](https://github.com/Blef0099/sf_data_science/blob/main/project_1/README.md#Какой-кейс-решаем)
 
 [3. Краткая информация о данных](____)
 
