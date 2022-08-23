@@ -5,18 +5,18 @@
 
 [2. Какой кейс решаем?](https://github.com/Blef0099/sf_data_science/blob/main/project_1/README.md#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](____)
+[3. Краткая информация о данных](https://github.com/Blef0099/sf_data_science/blob/main/project_1/README.md#Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](_____)
+[4. Этапы работы над проектом](https://github.com/Blef0099/sf_data_science/blob/main/project_1/README.md#Этапы-работы-над-проектом)
 
-[5. Результат](_____)
+[5. Результат](https://github.com/Blef0099/sf_data_science/blob/main/project_1/README.md#Результат)
 
-[6. Выводы](_____)
+[6. Выводы](https://github.com/Blef0099/sf_data_science/blob/main/project_1/README.md#Выводы)
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[ к оглавлению](______)
+:arrow_up:[ к оглавлению](https://github.com/Blef0099/sf_data_science/blob/main/project_1/README.md#Оглавление)
 
 
 ### Какой кейс решаем?
